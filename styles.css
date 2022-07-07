@@ -5,6 +5,10 @@
    font-family: 'Lato', sans-serif;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 .container {
     width: 100vw;
     height: 100vh;
